@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </p>
 
-<details>
+<!-- <details> -->
 
 <summary>📈 <b>My GitHub Stats</b></summary>
 
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
     </a>
   </p>
 
-</details>
+<!-- </details> -->
