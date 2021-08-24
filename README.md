@@ -1,6 +1,6 @@
 ### Hi there 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhangxiaoya.zhangxiaoya)](https://github.com/zhangxiaoya)
 
-Thanks for stopping by, this is Ryan Cheung, a algorithm developer and data scientist based in Beijing, CN.
+Thanks for stopping by, this is Ryan Cheung, an algorithm developer and data scientist based in Beijing, CN.
 
 <!--
 **zhangxiaoya/zhangxiaoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
